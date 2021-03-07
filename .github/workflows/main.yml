@@ -16,11 +16,10 @@ boxjs链接  https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThx
 作者分支名         main     
 同步分支名         ZIYE   （可自定义 ）
 
-
-
-
 */
-name: ziye-sync
+
+
+name:ziye-sync
 on:
   schedule:
     - cron: '1 */3 * * *'
